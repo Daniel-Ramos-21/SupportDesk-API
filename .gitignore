@@ -23,6 +23,12 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+bin/
+obj/
+
+# Ignore IDE specific folder
+.vs/
+.vscode/
 
 # .NET Core
 project.lock.json
