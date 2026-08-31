@@ -23,8 +23,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-bin/
-obj/
+[Ob]j/
 
 # Ignore IDE specific folder
 .vs/
