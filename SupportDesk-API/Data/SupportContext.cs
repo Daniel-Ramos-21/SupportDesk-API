@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using SupportDesk_API.Models;
 
 namespace SupportDesk_API.Data
 {
@@ -9,6 +10,7 @@ namespace SupportDesk_API.Data
 
         }
 
+        public DbSet<Ejemplo> Ejemplos { get; set; }
 
     }
 }
